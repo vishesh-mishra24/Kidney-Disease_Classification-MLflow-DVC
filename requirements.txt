@@ -16,4 +16,11 @@ scipy
 Flask
 Flask-Cors
 gdown
+python-box
+PyYAML
+tqdm
+gdown
+tensorflow
+mlflow
+dvc
 -e .
